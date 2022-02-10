@@ -3,13 +3,19 @@
 The Slides are uploaded below:
 ### [Part 1 Slides] (https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part01.pdf)
 
+<embed src="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part01.pdf" width="600px" height="500px" />
+
 <object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part01.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### [Part 2 Slides] (https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part02.pdf)
 
+<embed src="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part02.pdf" width="600px" height="500px" />
+
 <object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part02.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### [Part 3 Slides] (https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part03.pdf)
+
+<embed src="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part03.pdf" width="600px" height="500px" />
 
 <object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part03.pdf" width="700" height="700" type="application/pdf"></object>
 
