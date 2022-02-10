@@ -1,9 +1,8 @@
 ## Welcome to LaTeX Workshop notes webpage by Dr. Hasan Ali Khattak
 
-
 The Slides are uploaded below:
 ### Part 1
-<embed src="https://sumanbogati.github.io/sample.pdf" width="700px" height="700px" />
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part01.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### Part 2
 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part02.pdf" width="700" height="700" type="application/pdf"></object>
