@@ -3,7 +3,7 @@
 
 ### Source Code
 
-The LaTeX sources for the workshop are uploaded in [repository](https://github.com/hasanalikhattak/sbbwu2022latexworkshop/settings/pages). 
+The LaTeX sources for the workshop are uploaded in [repository](https://github.com/hasanalikhattak/sbbwu2022latexworkshop/). 
 
 ### Support or Contact
 
