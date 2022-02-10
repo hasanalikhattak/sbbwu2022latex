@@ -2,13 +2,13 @@
 
 The Slides are uploaded below:
 ### Part 1
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part01.pdf" width="700" height="700" type="application/pdf"></object>
+<object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part01.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### Part 2
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part02.pdf" width="700" height="700" type="application/pdf"></object>
+<object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part02.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### Part 3
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part03.pdf" width="700" height="700" type="application/pdf"></object>
+<object data="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part03.pdf" width="700" height="700" type="application/pdf"></object>
 
 ### Source Code
 
