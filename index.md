@@ -13,7 +13,7 @@ The Slides are uploaded below:
 
 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/part03.pdf" width="700" height="700" type="application/pdf"></object>
 
-If the embedded PDF for Part 03 is not displayed properly, <a href="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part03.pdf" target="_blank">please click here.</a> <embed src="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part03.pdf" width="700px" height="700px" />
+If the embedded PDF for Part 03 is not displayed properly, <a href="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/blob/gh-pages/_pdfs/part03.pdf" target="_blank">please click here.</a> <embed src="https://github.com/hasanalikhattak/sbbwu2022latexworkshop/raw/gh-pages/_pdfs/part03.pdf" width="700px" height="700px" />
 
 ### Source Code
 
